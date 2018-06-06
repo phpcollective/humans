@@ -1,0 +1,79 @@
+The humans.txt file explains the team, technology,
+and graphic assets behind this site.
+
+_______________________________________________________________________________
+
+/* Technical Team */
+/******************/
+Mian Zadid Rusdid
+Technical Lead
+Linkedin: https://www.linkedin.com/in/rusdid
+Facebook: https://www.facebook.com/zrusdid
+
+
+Al Amin Ibne Mosaddeque Chayan
+Lead Developer
+Linkedin: https://bd.linkedin.com/in/chayan86
+Facebook: https://www.facebook.com/al.amin.chayan
+
+Proshanta Barman
+Software Engineer
+Linkedin:
+Facebook: https://www.facebook.com/proshant2
+
+Md. Sihab Uddin
+Software Engineer
+Linkedin: https://www.linkedin.com/in/mdsihab
+
+
+
+/* QA & QC */
+/***********/
+Asef Al Rajib
+Facebook: https://www.facebook.com/kushuum
+
+
+/* Support */
+/***********/
+All Imam Asif
+Facebook: https://www.facebook.com/all.imam.asif
+
+
+/* OLD TEAM */
+/***********/
+Nasif Md. Tanjim
+Rashedul Hoque Shuvrow
+Payer
+Iftakharul Alam
+
+
+/* SITE */
+Language: Bangla, English
+Doctype: HTML5
+IDE: PhpStorm
+
+  /* FREE SOFTWARE USED (THANKS!) */
+  Git: http://git-scm.com/
+  Nginx: https://www.nginx.com/
+  PHP: http://php.net
+  PostgreSQL: https://www.postgresql.org/
+
+  Laravel: https://laravel.com/
+  PHP CodeSniffer: http://pear.php.net/package/PHP_CodeSniffer
+
+  Modernizr: http://modernizr.com
+  jQuery: http://jquery.com
+  Twitter Bootstrap: https://getbootstrap.com/
+
+
+  Firefox: http://mozilla.com
+  Firebug: http://getfirebug.com
+  Chrome: http://google.com/chrome
+
+
+/* thanks */
+
+	Thanks to all team members who worked so hard on the project, and thanks to those who kept the service running while we ran around in circles.
+
+
+/* So long and thanks for all the fish */
